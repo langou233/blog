@@ -77,9 +77,9 @@ export const THEME_CONFIG: App.Locals['config'] = {
     //   lang: 'zh-CN',
     //   loading: 'lazy',
     // },
-    twikoo: {
-      envId: "https://twikoo.555997.xyz/",
-    }
+    // twikoo: {
+    //   envId: "https://twikoo.555997.xyz/",
+    // }
   }
 }
 
