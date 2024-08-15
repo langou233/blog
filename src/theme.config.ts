@@ -1,8 +1,8 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "懒狗",
+  title: "懒 狗",
   /** your name */
-  author: "Langou",
+  author: "Lan gou",
   /** website description */
   desc: "爱财爱己，搞钱要紧",
   /** your deployed domain */
@@ -15,7 +15,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/langou233",
     },
     {
       name: "rss",
@@ -59,10 +59,10 @@ export const THEME_CONFIG: App.Locals['config'] = {
   ],
   /** your comment provider */
   comments: {
-    disqus: {
-      // please change this to your disqus shortname
-      shortname: "langou",
-    },
+    // disqus: {
+    //   // please change this to your disqus shortname
+    //   shortname: "langou",
+    // },
     // giscus: {
     //   repo: 'moeyua/astro-theme-typography',
     //   repoId: 'R_kgDOKy9HOQ',
@@ -77,9 +77,9 @@ export const THEME_CONFIG: App.Locals['config'] = {
     //   lang: 'zh-CN',
     //   loading: 'lazy',
     // },
-    // twikoo: {
-    //   envId: "https://twikoo-tau-flame.vercel.app",
-    // }
+    twikoo: {
+      envId: "https://langou233-twikoo.hf.space",
+    }
   }
 }
 
