@@ -78,7 +78,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
     //   loading: 'lazy',
     // },
     twikoo: {
-      envId: "https://langou233-twikoo.hf.space",
+      envId: "https://twikoo.555997.xyz/",
     }
   }
 }
