@@ -1,12 +1,12 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "懒 狗",
+  title: "多 思",
   /** your name */
-  author: "Lan gou",
+  author: "Dos",
   /** website description */
   desc: "爱财爱己，搞钱要紧",
   /** your deployed domain */
-  website: "https://blog.555997.xyz",
+  website: "https://blog.dosyuh.com",
   /** your locale */
   locale: "zh-cn",
   /** theme style */
