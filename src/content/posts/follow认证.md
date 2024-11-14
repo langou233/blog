@@ -1,9 +1,8 @@
 ---
 title: follow认证
 pubDate: 2024-08-15
-categories:
-  - 认证
-description:
+categories: ['VPS']
+description: ''
 ---
 
 ```
